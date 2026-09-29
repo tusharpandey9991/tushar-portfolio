@@ -70,6 +70,7 @@ const referenceLinks: Record<string, string> = {
   HTML: "https://developer.mozilla.org/en-US/docs/Web/HTML",
   CSS: "https://developer.mozilla.org/en-US/docs/Web/CSS",
   JavaScript: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+  TypeScript: "https://www.typescriptlang.org/docs/",
   ReactJS: "https://react.dev/",
   "Tailwind CSS": "https://tailwindcss.com/docs/",
   EDA: "https://www.ibm.com/think/topics/exploratory-data-analysis",
@@ -172,7 +173,7 @@ const skills = [
     eyebrow: "03",
     description:
       "Creating responsive, component-driven interfaces with attention to usability, performance and visual detail.",
-    tools: ["HTML", "CSS", "JavaScript", "ReactJS"],
+    tools: ["HTML", "Tailwind CSS", "JavaScript", "TypeScript"],
     icon: Code2,
   },
 ];
@@ -190,7 +191,7 @@ const projects = [
       ["37K+", "events"],
       ["73K+", "reported deaths"],
     ],
-    href: "https://global-war-casualties-analysis.vercel.app/",
+    href: "https://global-war-casualties-project.vercel.app/",
     featured: true,
   },
   {
@@ -205,7 +206,7 @@ const projects = [
       ["15+", "crops"],
       ["90%+", "accuracy"],
     ],
-    href: "https://food-price-forecasting.vercel.app/",
+    href: "https://food-price-forecasting-project.vercel.app/",
   },
   {
     number: "03",
@@ -219,7 +220,7 @@ const projects = [
       ["150+", "regions"],
       ["15+", "visuals"],
     ],
-    href: "https://covid-19-data-tracking-system.vercel.app/",
+    href: "https://covid-19-data-tracker.vercel.app/",
   },
   {
     number: "04",
@@ -239,7 +240,7 @@ const projects = [
       ["15+", "components"],
       ["Responsive", "UI"],
     ],
-    href: "https://hippo-store-project-op6n.vercel.app/",
+    href: "https://hippo-store-gcjg.vercel.app/",
   },
   {
     number: "05",
