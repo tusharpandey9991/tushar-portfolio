@@ -196,34 +196,6 @@ const projects = [
   },
   {
     number: "02",
-    title: "Food Price Forecasting",
-    category: "DATA ANALYTICS · FORECASTING",
-    description:
-      "Analyzed 25,000+ agricultural records covering 15+ crops and more than 10 years of historical data to understand price movements, production patterns and seasonal variation.",
-    technologies: ["Python", "Pandas", "NumPy", "Seaborn"],
-    stats: [
-      ["25K+", "records"],
-      ["15+", "crops"],
-      ["90%+", "accuracy"],
-    ],
-    href: "https://food-price-forecasting-project.vercel.app/",
-  },
-  {
-    number: "03",
-    title: "COVID-19 Data Tracking System",
-    category: "DATA ANALYTICS · EDA",
-    description:
-      "Processed and analyzed more than 100K COVID-19 records spanning 150+ countries, creating visual reports around infection trends, mortality and geographic differences.",
-    technologies: ["Python", "Pandas", "NumPy", "Matplotlib"],
-    stats: [
-      ["100K+", "records"],
-      ["150+", "regions"],
-      ["15+", "visuals"],
-    ],
-    href: "https://covid-19-data-tracker.vercel.app/",
-  },
-  {
-    number: "04",
     title: "Hippo Store",
     category: "FRONTEND DEVELOPMENT",
     description:
@@ -240,7 +212,35 @@ const projects = [
       ["15+", "components"],
       ["Responsive", "UI"],
     ],
-    href: "https://hippo-store-gcjg.vercel.app/",
+    href: "https://hippo-store-tau.vercel.app/",
+  },
+  {
+    number: "03",
+    title: "Food Price Forecasting",
+    category: "DATA ANALYTICS · FORECASTING",
+    description:
+      "Analyzed 25,000+ agricultural records covering 15+ crops and more than 10 years of historical data to understand price movements, production patterns and seasonal variation.",
+    technologies: ["Python", "Pandas", "NumPy", "Seaborn"],
+    stats: [
+      ["25K+", "records"],
+      ["15+", "crops"],
+      ["90%+", "accuracy"],
+    ],
+    href: "https://food-price-forecasting-project.vercel.app/",
+  },
+  {
+    number: "04",
+    title: "COVID-19 Data Tracking System",
+    category: "DATA ANALYTICS · EDA",
+    description:
+      "Processed and analyzed more than 100K COVID-19 records spanning 150+ countries, creating visual reports around infection trends, mortality and geographic differences.",
+    technologies: ["Python", "Pandas", "NumPy", "Matplotlib"],
+    stats: [
+      ["100K+", "records"],
+      ["150+", "regions"],
+      ["15+", "visuals"],
+    ],
+    href: "https://covid-19-data-tracker.vercel.app/",
   },
   {
     number: "05",
